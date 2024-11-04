@@ -103,4 +103,4 @@ const init = () => {
   body.append(section);
 };
 
-//init();
+init();
